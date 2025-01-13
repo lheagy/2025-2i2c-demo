@@ -22,3 +22,4 @@ to unzip the folder
 - getting started with python: https://transform.softwareunderground.org/2022-getting-started-python
 - ipywidgets: https://ipywidgets.readthedocs.io/en/stable/
 - python resources specific to geoscientists: https://projectpythia.org/
+- OCESE resource: https://eoas-ubc.github.io/dashboards-howto.html
