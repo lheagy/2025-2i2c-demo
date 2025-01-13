@@ -23,3 +23,4 @@ to unzip the folder
 - ipywidgets: https://ipywidgets.readthedocs.io/en/stable/
 - python resources specific to geoscientists: https://projectpythia.org/
 - OCESE resource: https://eoas-ubc.github.io/dashboards-howto.html
+- example environment file: https://github.com/henryk-modzelewski/2i2c-eosc454
